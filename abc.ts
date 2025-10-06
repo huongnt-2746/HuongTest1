@@ -5,4 +5,4 @@ function greet(name: string): string {
   return `Hello, ${name}!`;
 }
 
-console.log(greet("Toan")); // "Hello, Toan!" 123456
+console.log(greet("Toan22222222222266666666666666666666666666666666")); // "Hello, Toan!" 123456
